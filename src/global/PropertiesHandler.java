@@ -1,3 +1,5 @@
+package global;
+
 import java.io.FileInputStream;
 import java.io.InputStream;
 import java.text.MessageFormat;

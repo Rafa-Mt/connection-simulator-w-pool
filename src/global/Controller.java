@@ -1,3 +1,5 @@
+package global;
+
 import java.util.ArrayList;
 import java.util.stream.IntStream;
 

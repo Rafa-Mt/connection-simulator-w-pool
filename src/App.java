@@ -1,3 +1,7 @@
+import global.PropertiesHandler;
+
+import global.Controller;
+
 public class App {
     public static void main(String[] args) {
         PropertiesHandler props = new PropertiesHandler("config");
